@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 25" itemID="5e088fe2-00000097" symbolType="graphic" lastModified="1577619426">
+  <timeline>
+    <DOMTimeline name="Tween 25" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-101.25" ty="-616.6"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#990099"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2047 12394S2[2011 12430 1977 12438!1977 12438[1955 12441 1942 12432!1942 12432[1937 12427 1935 12419!1935 12419[1928 12401 1938 12373!1938 12373[1941 12363 1946 12350!1946 12350[1967 12306 2005 12271!2005 12271[2042 12233 2075 12227
+!2075 12227[2098 12222 2109 12233!2109 12233[2113 12238 2117 12245!2117 12245[2122 12263 2113 12291!2113 12291[2110 12301 2105 12314!2105 12314[2084 12358 2047 12394"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

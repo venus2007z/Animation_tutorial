@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 14" itemID="5e088c84-0000006b" symbolType="graphic" lastModified="1577618564">
+  <timeline>
+    <DOMTimeline name="Tween 14" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-17.05" ty="-616.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!427 12330S2[427 12366 402 12391!402 12391[377 12416 341 12416!341 12416[305 12416 280 12391!280 12391[255 12366 255 12330!255 12330[255 12308 264 12291!264 12291[270 12279 280 12269!280 12269[305 12244 341 12244!341 12244[377 12244 402
+ 12269!402 12269[412 12279 418 12291!418 12291[427 12308 427 12330"/>
+                    <Edge cubics="!427 12330(;427,12355 418,12375 402,12391q427 12330Q427 12366q402 12391);"/>
+                    <Edge cubics="!418 12291(;424,12303 427,12315 427,12330q418 12291Q427 12308q427 12330);"/>
+                    <Edge cubics="!402 12269(;409,12276 415,12283 418,12291q402 12269Q412 12279q418 12291);"/>
+                    <Edge cubics="!280 12269(;296,12253 317,12244 341,12244q280 12269Q305 12244q341 12244);"/>
+                    <Edge cubics="!255 12330(;255,12315 258,12303 264,12291q255 12330Q255 12308q264 12291);"/>
+                    <Edge cubics="!264 12291(;268,12283 273,12276 280,12269q264 12291Q270 12279q280 12269);"/>
+                    <Edge cubics="!280 12391(;264,12375 255,12355 255,12330q280 12391Q255 12366q255 12330);"/>
+                    <Edge cubics="!402 12391(;386,12408 365,12416 341,12416q402 12391Q377 12416q341 12416);"/>
+                    <Edge cubics="!341 12416(;317,12416 296,12408 280,12391q341 12416Q305 12416q280 12391);"/>
+                    <Edge cubics="!341 12244(;365,12244 386,12253 402,12269q341 12244Q377 12244q402 12269);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

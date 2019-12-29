@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 1" itemID="5e087fa1-00000026" symbolType="graphic" lastModified="1577615265">
+  <timeline>
+    <DOMTimeline name="Tween 1" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-95.7" ty="-461.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2168 9223S2[2168 9328 2093 9402!2093 9402[2019 9477 1914 9477!1914 9477[1809 9477 1734 9402!1734 9402[1676 9344 1664 9267!1664 9267[1660 9246 1660 9223!1660 9223[1660 9118 1734 9043!1734 9043[1809 8969 1914 8969!1914 8969[1919 8969 1925
+ 8969!1925 8969[2023 8973 2093 9043!2093 9043[2168 9118 2168 9223"/>
+                    <Edge cubics="!2093 9402(;2044,9452 1984,9477 1914,9477q2093 9402Q2019 9477q1914 9477);"/>
+                    <Edge cubics="!2093 9043(;2143,9093 2168,9153 2168,9223q2093 9043Q2168 9118q2168 9223);"/>
+                    <Edge cubics="!2168 9223(;2168,9293 2143,9353 2093,9402q2168 9223Q2168 9328q2093 9402);"/>
+                    <Edge cubics="!1660 9223(;1660,9153 1685,9093 1734,9043q1660 9223Q1660 9118q1734 9043);"/>
+                    <Edge cubics="!1734 9402(;1697,9365 1674,9322 1664,9267q1734 9402Q1676 9344q1664 9267);"/>
+                    <Edge cubics="!1664 9267(;1661,9256 1660,9240 1660,9223q1664 9267 1660 9223);"/>
+                    <Edge cubics="!1914 9477(;1844,9477 1784,9452 1734,9402q1914 9477Q1809 9477q1734 9402);"/>
+                    <Edge cubics="!1734 9043(;1784,8994 1844,8969 1914,8969q1734 9043Q1809 8969q1914 8969);"/>
+                    <Edge cubics="!1914 8969(;1917,8969 1921,8969 1925,8969q1914 8969Q1919 8969q1925 8969);"/>
+                    <Edge cubics="!1925 8969(;1990,8972 2046,8996 2093,9043q1925 8969Q2023 8973q2093 9043);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

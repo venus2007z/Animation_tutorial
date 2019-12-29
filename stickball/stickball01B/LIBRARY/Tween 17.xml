@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 17" itemID="5e088c84-00000077" symbolType="graphic" lastModified="1577618564">
+  <timeline>
+    <DOMTimeline name="Tween 17" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-87.45" ty="-619"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1835 12380S2[1835 12416 1810 12441!1810 12441[1785 12466 1749 12466!1749 12466[1713 12466 1688 12441!1688 12441[1663 12416 1663 12380!1663 12380[1663 12358 1672 12341!1672 12341[1678 12329 1688 12319!1688 12319[1713 12294 1749 12294
+!1749 12294[1785 12294 1810 12319!1810 12319[1820 12329 1826 12341!1826 12341[1835 12358 1835 12380"/>
+                    <Edge cubics="!1835 12380(;1835,12405 1826,12425 1810,12441q1835 12380Q1835 12416q1810 12441);"/>
+                    <Edge cubics="!1826 12341(;1832,12353 1835,12365 1835,12380q1826 12341Q1835 12358q1835 12380);"/>
+                    <Edge cubics="!1810 12319(;1817,12326 1823,12333 1826,12341q1810 12319Q1820 12329q1826 12341);"/>
+                    <Edge cubics="!1688 12319(;1704,12303 1725,12294 1749,12294q1688 12319Q1713 12294q1749 12294);"/>
+                    <Edge cubics="!1663 12380(;1663,12365 1666,12353 1672,12341q1663 12380Q1663 12358q1672 12341);"/>
+                    <Edge cubics="!1672 12341(;1676,12333 1681,12326 1688,12319q1672 12341Q1678 12329q1688 12319);"/>
+                    <Edge cubics="!1688 12441(;1672,12425 1663,12405 1663,12380q1688 12441Q1663 12416q1663 12380);"/>
+                    <Edge cubics="!1810 12441(;1794,12458 1773,12466 1749,12466q1810 12441Q1785 12466q1749 12466);"/>
+                    <Edge cubics="!1749 12466(;1725,12466 1704,12458 1688,12441q1749 12466Q1713 12466q1688 12441);"/>
+                    <Edge cubics="!1749 12294(;1773,12294 1794,12303 1810,12319q1749 12294Q1785 12294q1810 12319);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
