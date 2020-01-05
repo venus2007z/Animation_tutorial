@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 4" itemID="5e0b3e76-0000002d" symbolType="graphic" lastModified="1577795190">
+  <timeline>
+    <DOMTimeline name="Tween 4" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-209.3" ty="-388"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4456 7760S2[4456 7872 4377 7951!4377 7951[4298 8030 4186 8030!4186 8030[4074 8030 3995 7951!3995 7951[3916 7872 3916 7760!3916 7760[3916 7648 3995 7569!3995 7569[4074 7490 4186 7490!4186 7490[4298 7490 4377 7569!4377 7569[4456 7648 4456
+ 7760"/>
+                    <Edge cubics="!4456 7760(;4456,7835 4430,7898 4377,7951q4456 7760Q4456 7872q4377 7951);"/>
+                    <Edge cubics="!4377 7569(;4430,7622 4456,7685 4456,7760q4377 7569Q4456 7648q4456 7760);"/>
+                    <Edge cubics="!3995 7569(;4048,7516 4111,7490 4186,7490q3995 7569Q4074 7490q4186 7490);"/>
+                    <Edge cubics="!4186 8030(;4111,8030 4048,8004 3995,7951q4186 8030Q4074 8030q3995 7951);"/>
+                    <Edge cubics="!3995 7951(;3942,7898 3916,7835 3916,7760q3995 7951Q3916 7872q3916 7760);"/>
+                    <Edge cubics="!3916 7760(;3916,7685 3942,7622 3995,7569q3916 7760Q3916 7648q3995 7569);"/>
+                    <Edge cubics="!4377 7951(;4324,8004 4261,8030 4186,8030q4377 7951Q4298 8030q4186 8030);"/>
+                    <Edge cubics="!4186 7490(;4261,7490 4324,7516 4377,7569q4186 7490Q4298 7490q4377 7569);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
